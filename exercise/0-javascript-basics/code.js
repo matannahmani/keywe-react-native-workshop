@@ -1,5 +1,5 @@
 
-let name /* string */
+let name = 'Matan' /* string */
 let age /* number */
 let hobbies /* array */
 let married /* boolean */
